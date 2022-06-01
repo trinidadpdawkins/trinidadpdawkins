@@ -1,4 +1,4 @@
-Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>
+Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>
 
 <p>
   <img src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"
